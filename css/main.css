@@ -1,0 +1,42 @@
+html {
+  background-color: #dbd6cf;
+  font-family: Bevan, cursive;
+}
+
+body {
+  background-color: #595652;
+  margin: 0;
+  padding-top: .3em;
+  padding-bottom: .3em;
+}
+
+div {
+  background-color: #595652;
+  text-align: center;
+}
+
+header {
+  background-color: #79756f;
+  padding: .1em;
+}
+
+h1 {
+  color: #fff;
+}
+
+li {
+  background-color: #713837;
+  color: #fff;
+  font-family: sans-serif;
+  list-style-type: none;
+  display: inline-block;
+  padding: .3em;
+  margin: .3em;
+  border-radius: 3px;
+}
+
+a,
+a:link {
+  color: #fff;
+  text-decoration: none;
+}
